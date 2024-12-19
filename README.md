@@ -1,7 +1,7 @@
 1.Tools: React, TypeScript, JavaScript, HTML, CSS, Node.js, Express.js, MongoDB.
 2.This web app is functional for e-commerce purpose and aim to perform product design and develop for a full stack application, from front-end using HTML, CSS and related libraries,  to the backend using Node.js, Express.js, MongoDB. 
 3.The shopping cart system on the "inventory" page works well. 
-4.Next step is to build a blog system on the pape of "Forum".
+4.Next step is to build a blog system on the pape of "Forum",  and complete the car build system under the route of "Model".
 5.Most of the visual assets designed by the author.
 6.Author: River Li.--------------------------------------------------------------
 HOME-PAGE
